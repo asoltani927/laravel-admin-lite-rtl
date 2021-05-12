@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\Layouts\AppController;
+use App\Http\Controllers\Layouts\GuestController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,6 +15,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/login', GuestController::class.'@index');
+
+Route::get('/', AppController::class.'@index');
+
