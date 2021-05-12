@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Interfaces\Contracts;
+namespace App\Interfaces;
 
 interface iModule
 {
