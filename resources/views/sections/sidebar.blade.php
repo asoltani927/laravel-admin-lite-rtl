@@ -29,34 +29,83 @@
         <li class="header">منو</li>
         <li class="active treeview">
           <a href="#">
-            <i class="fa fa-dashboard"></i> <span>داشبرد</span>
-            <span class="pull-left-container">
-              <i class="fa fa-angle-right pull-left"></i>
-            </span>
+            <i class="fa fa-dashboard"></i> <span>پیشخوان</span>
           </a>
-          <ul class="treeview-menu">
-            <li class="active"><a href="/"><i class="fa fa-circle-o"></i> داشبرد اول</a></li>
-            <li><a href="/"><i class="fa fa-circle-o"></i> داشبرد دوم</a></li>
-          </ul>
         </li>
         <li class="treeview">
           <a href="#">
             <i class="fa fa-files-o"></i>
-            <span>لایه های صفحه</span>
+            <span>مشتریان</span>
             <span class="pull-left-container">
               <span class="label label-primary pull-left">4</span>
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i> نوار بالا</a></li>
-            <li><a href="../../pages/layout/boxed.html"><i class="fa fa-circle-o"></i> باکس ها</a></li>
-            <li><a href="../../pages/layout/fixed.html"><i class="fa fa-circle-o"></i> فیکس شده</a></li>
-            <li><a href="../../pages/layout/collapsed-sidebar.html"><i class="fa fa-circle-o"></i> سایدبار</a></li>
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>مشتری جدید</a></li>
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>جست وجو،نمایش مشتریان</a></li>
+            <li><a href="../../pages/layout/boxed.html"><i class="fa fa-circle-o"></i> محصولات و سرویس ها</a></li>
+            <li><a href="../../pages/layout/fixed.html"><i class="fa fa-circle-o"></i> دامنه های ثبت شده</a></li>
           </ul>
         </li>
+        <li class="treeview">
+          <a href="#">
+            <i class="fa fa-files-o"></i>
+            <span>سفارشات</span>
+            <span class="pull-left-container">
+              <span class="label label-primary pull-left">4</span>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>ثبت سفارش</a></li>
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>جست وجو، نمایش سفارشات</a></li>
+          </ul>
+        </li>
+        <li class="treeview">
+          <a href="#">
+            <i class="fa fa-files-o"></i>
+            <span>پشتیبانی</span>
+            <span class="pull-left-container">
+              <span class="label label-primary pull-left">4</span>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>خلاصه وضعیت</a></li>
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>ثبت تیکت</a></li>
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>مشکلات شبکه</a></li>
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>مشکلات شبکه</a></li>
+          </ul>
+        </li>
+        <li class="treeview">
+          <a href="#">
+            <i class="fa fa-files-o"></i>
+            <span>ابزارها</span>
+            <span class="pull-left-container">
+              <span class="label label-primary pull-left">4</span>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>خلاصه وضعیت</a></li>
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>ثبت تیکت</a></li>
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>مشکلات شبکه</a></li>
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>مشکلات شبکه</a></li>
+          </ul>
+        </li>
+        <li class="treeview">
+          <a href="#">
+            <i class="fa fa-files-o"></i>
+            <span>تنظیمات</span>
+          </a>
+          <ul class="treeview-menu">
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>محصولات/سرویس ها</a></li>
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>ثبت تیکت</a></li>
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>مشکلات شبکه</a></li>
+            <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>مشکلات شبکه</a></li>
+          </ul>
+        </li>
+
         <li>
           <a href="../../pages/widgets.html">
-            <i class="fa fa-th"></i> <span>ویجت ها</span>
+            <i class="fa fa-th"></i> <span>سفارشات</span>
             <span class="pull-left-container">
               <small class="label pull-left bg-green">جدید</small>
             </span>
