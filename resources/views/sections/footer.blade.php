@@ -1,5 +1,5 @@
 
   <!-- /.content-wrapper -->
   <footer class="main-footer text-left">
-    <strong>Copyleft &copy; 2014-2017 <a href="https://adminlte.io">Almsaeed Studio</a> & <a href="http://hosseinizadeh.ir/adminlte">Alireza Hosseinizadeh</a></strong>
+    <strong>Copyleft &copy; 2021 <a href="https://asoltani.ir">Amin Soltnit</a>
   </footer>
