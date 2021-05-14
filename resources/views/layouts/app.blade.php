@@ -43,9 +43,9 @@
 
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
-
-    @yield('content')
-
+    <router-view>
+      @yield('content')
+    </router-view>
   </div>
 
   @include('sections.footer')

@@ -94,6 +94,9 @@
           <a href="#">
             <i class="fa fa-files-o"></i>
             <span>تنظیمات</span>
+            <span class="pull-left-container">
+              <i class="fa fa-angle-right pull-left"></i>
+            </span>
           </a>
           <ul class="treeview-menu">
             <li><a href="../../pages/layout/top-nav.html"><i class="fa fa-circle-o"></i>محصولات/سرویس ها</a></li>
